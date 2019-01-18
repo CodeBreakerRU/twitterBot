@@ -21,5 +21,5 @@ chmod u+x filename.sh
 ./filename.sh
 
 <br><b>
-# This is for testing purposes only ,If you use this to spam or if twitter suspected you were spamming they will suspend your twitter accounts!!
+# This is for testing purposes only ,If you use this to spam or if twitter suspected you were spamming they will suspend your twitter account!!
 
