@@ -11,11 +11,11 @@ First you need to install <b> TWEEPY </b> and <b> PYTHON 2.7 </b> or higher to r
 Download and install tweepy from here  <a href="https://github.com/tweepy/tweepy">Tweepy</a>
 
 
-<b>#get developer keys from developer account and replace it with keys file. </b>
+<b>get developer keys from developer account and replace it with keys file. </b>
 
 <b> Replace your words with "Merry christmas" at twitterBot.sh file as you want, Because I created this to test with christmas wish tweets :) </b>
 
-<b> #Give execute permissions and run your script. </b>
+<b>Give execute permissions and run your script. </b>
 
 chmod u+x filename.sh
 
