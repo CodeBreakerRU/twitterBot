@@ -1,4 +1,4 @@
-# twitterBot
+# TwitterBot
 
 This will automatically reply to selected tweets.
 
@@ -8,7 +8,8 @@ Twitter developer account
 
 First you need to install <b> TWEEPY </b> and <b> PYTHON 2.7 </b> or higher to run this script.
 
-Download and install tweepy from here https://github.com/tweepy/tweepy
+Download and install tweepy from here  <a href="https://github.com/tweepy/tweepy">Tweepy</a>
+
 
 <b>#get developer keys from developer account and replace it with keys file. </b>
 
