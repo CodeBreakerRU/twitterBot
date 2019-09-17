@@ -14,11 +14,7 @@ Download and install tweepy from here  <a href="https://github.com/tweepy/tweepy
 
 <b> Replace your words with "Merry christmas" at twitterBot.sh file as you want, Because I created this to test with christmas wish tweets :) </b>
 
-<b>Give execute permissions and run your script. </b>
+python3 filename.py
 
-chmod u+x filename.sh
-
-./filename.sh
-
-<br><b>
-<h3> This is for testing purposes only ,If you use this to spam or if twitter suspected you were spamming they will suspend your twitter account!! </h3>
+<br/>
+<h5> This is for testing purposes only ,If you use this to spam or if twitter suspected you were spamming they will suspend your twitter account!! </h5>
