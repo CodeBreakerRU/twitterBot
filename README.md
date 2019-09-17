@@ -12,7 +12,7 @@ Download and install tweepy from here  <a href="https://github.com/tweepy/tweepy
 
 <b>get developer keys from developer account and replace it with keys file. </b>
 
-<b> Replace your words with "Merry christmas" at twitterBot.sh file as you want, Because I created this to test with christmas wish tweets :) </b>
+<b> Replace your words with "Merry christmas" at twitterBot.py file as you want, Because I created this to test with christmas wish tweets :) </b>
 
 python3 filename.py
 
