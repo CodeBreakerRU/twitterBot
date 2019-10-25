@@ -1,5 +1,7 @@
 import tweepy
 import time
+
+from keys import *
 print('TwitterBot', flush=True)
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
@@ -31,11 +33,12 @@ def reply_to_tweets():
         last_seen_id = hometimeline.id
         store_last_seen_id(last_seen_id, FILE_NAME)
         # Replace your word with Merry christmas as you want, because i created this to reply christmas wishes :)
-        if 'Merry Christmas' in hometimeline.full_text.lower():
+        if 'Merry christmas' in hometimeline.full_text.lower():
             print('found similar tweet', flush=True)
             print('responding back...', flush=True)
-            api.update_status('@' + hometimeline.user.screen_name + 'Wish you the same !!', hometimeline.id)
+            api.update_status('@' + hometimeline.user.screen_name + 'Wish you the same ^^', hometimeline.id)
 
 while True:
     reply_to_tweets()
     time.sleep(15)
+
