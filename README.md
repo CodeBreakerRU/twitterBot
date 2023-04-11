@@ -2,19 +2,21 @@
 
 This will automatically reply to selected tweets.
 
-Prerequires
-<ul>
-  <li>Twitter developer account</li> </ul>
+Please note that this should not be used for spamming, as it violates Twitter's policies and can result in the suspension of your Twitter account.
 
-First you need to install <b> TWEEPY </b> and <b> PYTHON 2.7 </b> or higher to run this script.
+Prerequisites:
+<ul><li>
+A Twitter developer account</li><li>
+Tweepy and Python 2.7 or higher installed on your device.</ul>
 
-Download and install tweepy from here  <a href="https://github.com/tweepy/tweepy">Tweepy</a>
+To install Tweepy, download it from this link: 
 
-<b>get developer keys from developer account and replace it with keys file. </b>
+<a href="https://github.com/tweepy/tweepy">Tweepy</a>
 
-<b> Replace your words with "Merry christmas" at twitterBot.py file as you want, Because I created this to test with christmas wish tweets :) </b>
+Next, obtain developer keys from your Twitter account and replace them in the designated keys file. You can then customize the tweet reply message by editing the "Merry Christmas" phrase in the twitterBot.py file.
+
+Finally, run the program by executing the following command in your terminal:
 
 python3 filename.py
 
-<br/>
-<h5> This is for testing purposes only ,If you use this to spam or if twitter suspected you were spamming they will suspend your twitter account!! </h5>
+Hope these instructions will help you get started with implementing an automatic tweet reply system using Python and Tweepy. 
